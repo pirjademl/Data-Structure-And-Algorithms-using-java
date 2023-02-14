@@ -114,11 +114,11 @@ class LinkedList {
 public class addElement {
     public static void main(String[] args) {
         LinkedList l1 = new LinkedList();
-        l1.addAtEnd("Magdum");
-        l1.addAtEnd("Misbah");
-        l1.addAtEnd("Humera");
-        l1.addAtEnd("tausif");
-        l1.insert("Matin", "Magdum");
+        l1.addAtEnd("John");
+        l1.addAtEnd("Adam");
+        l1.addAtEnd("Peter");
+        l1.addAtEnd("Maxim");
+        l1.insert("Maxim", "Adam");
         l1.Display();
     }
 
