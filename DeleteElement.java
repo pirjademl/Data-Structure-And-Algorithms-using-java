@@ -198,10 +198,7 @@ public class DeleteElement {
         list.delete("Surat");
         list.display();
 
-        /*
-         * if(list.find("Munich")!=null) System.out.println("Node found"); else
-         * System.out.println("Node not found");
-         */
+       
 
     }
 
